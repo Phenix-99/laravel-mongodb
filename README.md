@@ -1074,3 +1074,10 @@ DB::connection()->disableQueryLog();
 ```
 
 *From: http://laravel.com/docs/database#query-logging*
+
+### Extra for Beginners
+
+If you have a problem to install jenssegers/mongodb package, here you have a Laravel package preconfigurated with Jenssegers/MongoDB(lara-mongo).
+The Laravel version is 5.6
+
+*From: https://github.com/Phenix-99/lara-mongo*
